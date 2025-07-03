@@ -38,8 +38,6 @@ task_manager/
 ├── utils.py # Helper functions: date validation, ID generation
 ├── tasks.json # The task data file (auto-created)
 
----
-
 ## 📌 Commands
 
 ### ➕ Add a Task
@@ -66,6 +64,8 @@ python main.py delete 2
         "priority": "high"
     }
 ]
+
+---
 
 ### ✨ Future Enhancements (Stretch Goals)
 
